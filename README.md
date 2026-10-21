@@ -47,20 +47,17 @@ a.   KVL:
 <img width="1137" height="755" alt="KVL" src="https://github.com/user-attachments/assets/7601ab81-3cdc-4a4f-ad43-1cc8447366a0" />
 
 
-b.  KCL:
- 
+b.  KCL: 
 <img width="1137" height="755" alt="KVL" src="https://github.com/user-attachments/assets/89ea3b47-406e-4db6-a241-6950b107defb" />
 
 Calculation:
 
 a.   KVL:
- 
 <img width="1508" height="2496" alt="IMG_20261021_143438_1" src="https://github.com/user-attachments/assets/90914237-d339-4268-90e3-0b8abae3b2ca" />
 <img width="1500" height="836" alt="IMG_20261021_175449" src="https://github.com/user-attachments/assets/ee5c0563-26be-4184-888e-bb79ea9f6564" />
 
 
 b.  KCL:
-
 <img width="1508" height="1796" alt="IMG_20261021_175438" src="https://github.com/user-attachments/assets/30fd581f-3cfd-4809-ac85-d54274c50791" />
 
 
@@ -68,12 +65,10 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
 <img width="1548" height="1044" alt="IMG_20261021_175507" src="https://github.com/user-attachments/assets/e928e228-a748-42b9-a91d-69efc53daa99" />
 
 
 b.  KCL:
-
 <img width="1548" height="1536" alt="IMG_20261021_175500" src="https://github.com/user-attachments/assets/bdaca5da-cf10-4656-b653-9fc3dd31b847" />
 
 
